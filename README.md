@@ -1,10 +1,5 @@
 # About me 👋
 
-
-**Hello-devtech/Hello-devtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on becoming a super individual and exploring how to create value with AI.
 - 🌱 I’m currently learning AI, tools, automation, and how to turn ideas into real projects.
 - 👯 I’m looking to collaborate on AI projects, indie building, and meaningful ideas with like-minded people.
